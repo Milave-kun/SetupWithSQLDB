@@ -3,6 +3,7 @@
 
 ### Step 1:
 Go to Extension > Manage Extensiom then Download Microsoft Visual Studio Installer Project 2022
+
 ![image](https://github.com/Milave-kun/SetupWithSQLDB/assets/125982535/c9d7d59e-b529-4a53-baa4-91ba557d17bc)
 
  
