@@ -1,6 +1,10 @@
 # SetupWithSQLDB
  Create Setup File With attaching SQL Database .mdf
 
+### Step 1:
+Go to Extension > Manage Extensiom then Download Microsoft Visual Studio Installer Project
+ 
+
 ## I created a Basic CRUD in Visual Studio 2022
 
 ### Output:
