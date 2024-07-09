@@ -287,3 +287,6 @@ Go to the release folder and you can see the setup files
         }
     }
     }
+
+### Database:
+![image](https://github.com/Milave-kun/SetupWithSQLDB/assets/125982535/9686214c-f2f2-44f9-847b-466f6da157c4)
