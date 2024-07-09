@@ -6,6 +6,29 @@ Go to Extension > Manage Extensiom then Download Microsoft Visual Studio Install
 
 ![image](https://github.com/Milave-kun/SetupWithSQLDB/assets/125982535/c9d7d59e-b529-4a53-baa4-91ba557d17bc)
 
+### Step 2:
+Right Click on the solution name then Add > New Project then select Setup Project
+
+![image](https://github.com/Milave-kun/SetupWithSQLDB/assets/125982535/99fa95d9-7ef2-4192-9403-c80cca00eddc)
+
+### Step 3:
+Select the Application Folder then right click on the empty space then Add > Project Output then select Publish item then Ok
+
+![image](https://github.com/Milave-kun/SetupWithSQLDB/assets/125982535/0d8d06b4-6d0d-4141-8206-f4f38bcfd1fa)
+
+### Step 4:
+Now create a shortcut of the publish items then distribute it to User's Desktop and User's Programs Menu
+
+### Step 5: 
+Go to Solution Explorer then right click on the setup project then click Build
+
+![image](https://github.com/Milave-kun/SetupWithSQLDB/assets/125982535/b61f3dfb-dcf6-4c3b-8bd8-f0a17cf024e2)
+
+### Step 6:
+Go to the release folder and you can see the setup files
+
+![image](https://github.com/Milave-kun/SetupWithSQLDB/assets/125982535/9662a78a-9ae3-4a25-b2d4-1befce042719)
+
  
 
 ## I created a Basic CRUD in Visual Studio 2022
