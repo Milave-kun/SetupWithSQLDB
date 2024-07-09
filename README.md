@@ -7,13 +7,13 @@
 ![image](https://github.com/Milave-kun/SetupWithSQLDB/assets/125982535/02aee95a-e80b-4759-a7c2-84f20f3ad6ac)
 
 ### Codes:
-using System;
-using System.Data;
-using System.Data.SqlClient;
-using System.Windows.Forms;
+    using System;
+    using System.Data;
+    using System.Data.SqlClient;
+    using System.Windows.Forms;
 
-namespace SetupWithSQLDB
-{
+    namespace SetupWithSQLDB
+    {
     public partial class Form1 : Form
     {
         public Form1()
@@ -256,4 +256,4 @@ namespace SetupWithSQLDB
             }
         }
     }
-}
+    }
